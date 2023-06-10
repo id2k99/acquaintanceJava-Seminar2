@@ -1,6 +1,6 @@
 //*Сравнить время выполнения замены символа "а" на "А" любой строки
 //        содержащей >1000 символов средствами String и StringBuilder.
-public class Homewwork2 {
+public class Additional {
     public static void main(String[] args) {
         String s1 = "";
         StringBuilder builder1 = new StringBuilder(10000);
